@@ -1,10 +1,4 @@
-﻿/* IGME 201.01
- * Assignment: PE1 - Hello World
- * Name: Judy Derrick
- * Goal: Familiarize myself with Micosoft Visual Studio 2022 C#
- */
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,8 +6,16 @@ using System.Threading.Tasks;
 
 namespace Derrick_HelloWorld
 {
+    // Class: IGME 201.01
+    // Author: Judy Derrick
+    // Purpose: PE1 - Hello World
+    // Restrictions: None
     internal class Program
     {
+        // Method: Main
+        // Purpose: create variables, print messages to console,
+        //          do math, run ifs and for loops
+        // Restrictions: None
         static void Main(string[] args)
         {
             // create variables
