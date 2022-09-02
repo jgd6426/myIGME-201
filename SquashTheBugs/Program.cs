@@ -10,7 +10,7 @@ namespace SquashTheBugs
     {
         // Method: Main
         // Purpose: Loop through the numbers 1 through 10 
-        //          Output N/(N-1) for all 10 numbers
+        //          Output N/(N-1) for all 10 numbers 
         //          and list all numbers processed
         // Restrictions: None
         static void Main(string[] args)
