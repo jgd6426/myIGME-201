@@ -13,7 +13,7 @@ namespace Derrick_HelloWorld
     internal class Program
     {
         // Method: Main
-        // Purpose: create variables, print messages to console,
+        // Purpose: create variables, print messages to console, 
         //          do math, run ifs and for loops
         // Restrictions: None
         static void Main(string[] args)
