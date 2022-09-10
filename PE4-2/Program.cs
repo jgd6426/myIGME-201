@@ -10,7 +10,7 @@ namespace PE4_2
     // Author: Judy Derrick
     // Purpose: PE4 Question 2
     // Restrictions: None
-    internal class Program
+    static internal class Program
     {
         static void Main(string[] args)
         {
