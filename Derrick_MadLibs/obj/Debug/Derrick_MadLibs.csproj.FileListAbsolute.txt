@@ -1,0 +1,8 @@
+D:\Profiles\jgd6426\source\repos\Derrick_MadLibs\bin\Debug\Derrick_MadLibs.exe.config
+D:\Profiles\jgd6426\source\repos\Derrick_MadLibs\bin\Debug\Derrick_MadLibs.exe
+D:\Profiles\jgd6426\source\repos\Derrick_MadLibs\bin\Debug\Derrick_MadLibs.pdb
+D:\Profiles\jgd6426\source\repos\Derrick_MadLibs\obj\Debug\Derrick_MadLibs.csproj.AssemblyReference.cache
+D:\Profiles\jgd6426\source\repos\Derrick_MadLibs\obj\Debug\Derrick_MadLibs.csproj.SuggestedBindingRedirects.cache
+D:\Profiles\jgd6426\source\repos\Derrick_MadLibs\obj\Debug\Derrick_MadLibs.csproj.CoreCompileInputs.cache
+D:\Profiles\jgd6426\source\repos\Derrick_MadLibs\obj\Debug\Derrick_MadLibs.exe
+D:\Profiles\jgd6426\source\repos\Derrick_MadLibs\obj\Debug\Derrick_MadLibs.pdb
