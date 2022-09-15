@@ -8,13 +8,13 @@ namespace PE8_5
 {
     // Class: IGME 201.01
     // Author: Judy Derrick
-    // Purpose: PE8 - More About Variables
+    // Purpose: PE8 Q5 - More About Variables
     // Restrictions: None
     static internal class Program
     {
         // Method: Main
-        // Purpose: create variables, print messages to console, 
-        //          do math, run ifs and for loops
+        // Purpose: given a formula, write a console application to calculate z
+        //          with following ranges for x and y
         // Restrictions: None
         static void Main(string[] args)
         {
