@@ -1,0 +1,8 @@
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE8-7\bin\Debug\PE8-7.exe.config
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE8-7\bin\Debug\PE8-7.exe
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE8-7\bin\Debug\PE8-7.pdb
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE8-7\obj\Debug\PE8-7.csproj.AssemblyReference.cache
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE8-7\obj\Debug\PE8-7.csproj.SuggestedBindingRedirects.cache
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE8-7\obj\Debug\PE8-7.csproj.CoreCompileInputs.cache
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE8-7\obj\Debug\PE8-7.exe
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE8-7\obj\Debug\PE8-7.pdb
