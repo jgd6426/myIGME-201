@@ -1,0 +1,16 @@
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE9-2\obj\Debug\PE9-2.csproj.AssemblyReference.cache
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE9-2\obj\Debug\PE9-2.csproj.SuggestedBindingRedirects.cache
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE9-2\obj\Debug\PE9-2.csproj.CoreCompileInputs.cache
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE9-2\bin\Debug\PE9-2.exe.config
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE9-2\bin\Debug\PE9-2.exe
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE9-2\bin\Debug\PE9-2.pdb
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE9-2\obj\Debug\PE9-2.exe
+D:\Profiles\jgd6426\source\repos\jgd6426\myIGME-201\PE9-2\obj\Debug\PE9-2.pdb
+C:\Users\derri\OneDrive\Desktop\PE9-2\bin\Debug\PE9-2.exe.config
+C:\Users\derri\OneDrive\Desktop\PE9-2\bin\Debug\PE9-2.exe
+C:\Users\derri\OneDrive\Desktop\PE9-2\bin\Debug\PE9-2.pdb
+C:\Users\derri\OneDrive\Desktop\PE9-2\obj\Debug\PE9-2.csproj.AssemblyReference.cache
+C:\Users\derri\OneDrive\Desktop\PE9-2\obj\Debug\PE9-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\OneDrive\Desktop\PE9-2\obj\Debug\PE9-2.csproj.CoreCompileInputs.cache
+C:\Users\derri\OneDrive\Desktop\PE9-2\obj\Debug\PE9-2.exe
+C:\Users\derri\OneDrive\Desktop\PE9-2\obj\Debug\PE9-2.pdb
