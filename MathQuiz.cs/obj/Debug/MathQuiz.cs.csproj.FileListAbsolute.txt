@@ -1,0 +1,8 @@
+C:\Users\derri\source\repos\MathQuiz.cs\obj\Debug\MathQuiz.cs.csproj.AssemblyReference.cache
+C:\Users\derri\source\repos\MathQuiz.cs\obj\Debug\MathQuiz.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\source\repos\MathQuiz.cs\obj\Debug\MathQuiz.cs.csproj.CoreCompileInputs.cache
+C:\Users\derri\source\repos\MathQuiz.cs\bin\Debug\MathQuiz.cs.exe.config
+C:\Users\derri\source\repos\MathQuiz.cs\bin\Debug\MathQuiz.cs.exe
+C:\Users\derri\source\repos\MathQuiz.cs\bin\Debug\MathQuiz.cs.pdb
+C:\Users\derri\source\repos\MathQuiz.cs\obj\Debug\MathQuiz.cs.exe
+C:\Users\derri\source\repos\MathQuiz.cs\obj\Debug\MathQuiz.cs.pdb
