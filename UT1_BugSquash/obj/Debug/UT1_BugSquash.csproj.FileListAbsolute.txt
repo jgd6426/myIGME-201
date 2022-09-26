@@ -1,0 +1,8 @@
+C:\Users\derri\source\repos\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.AssemblyReference.cache
+C:\Users\derri\source\repos\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\source\repos\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.CoreCompileInputs.cache
+C:\Users\derri\source\repos\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe.config
+C:\Users\derri\source\repos\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe
+C:\Users\derri\source\repos\UT1_BugSquash\bin\Debug\UT1_BugSquash.pdb
+C:\Users\derri\source\repos\UT1_BugSquash\obj\Debug\UT1_BugSquash.exe
+C:\Users\derri\source\repos\UT1_BugSquash\obj\Debug\UT1_BugSquash.pdb
