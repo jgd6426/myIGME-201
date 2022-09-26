@@ -1,0 +1,8 @@
+C:\Users\derri\source\repos\Unit1Test_Q13\bin\Debug\Unit1Test_Q13.exe.config
+C:\Users\derri\source\repos\Unit1Test_Q13\bin\Debug\Unit1Test_Q13.exe
+C:\Users\derri\source\repos\Unit1Test_Q13\bin\Debug\Unit1Test_Q13.pdb
+C:\Users\derri\source\repos\Unit1Test_Q13\obj\Debug\Unit1Test_Q13.csproj.AssemblyReference.cache
+C:\Users\derri\source\repos\Unit1Test_Q13\obj\Debug\Unit1Test_Q13.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\source\repos\Unit1Test_Q13\obj\Debug\Unit1Test_Q13.csproj.CoreCompileInputs.cache
+C:\Users\derri\source\repos\Unit1Test_Q13\obj\Debug\Unit1Test_Q13.exe
+C:\Users\derri\source\repos\Unit1Test_Q13\obj\Debug\Unit1Test_Q13.pdb
