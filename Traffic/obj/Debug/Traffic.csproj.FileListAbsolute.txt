@@ -1,0 +1,11 @@
+C:\Users\derri\source\repos\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\derri\source\repos\Traffic\bin\Debug\Traffic.exe
+C:\Users\derri\source\repos\Traffic\bin\Debug\Traffic.pdb
+C:\Users\derri\source\repos\Traffic\bin\Debug\Vehicles.dll
+C:\Users\derri\source\repos\Traffic\bin\Debug\Vehicles.pdb
+C:\Users\derri\source\repos\Traffic\obj\Debug\Traffic.csproj.AssemblyReference.cache
+C:\Users\derri\source\repos\Traffic\obj\Debug\Traffic.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\source\repos\Traffic\obj\Debug\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\derri\source\repos\Traffic\obj\Debug\Traffic.csproj.CopyComplete
+C:\Users\derri\source\repos\Traffic\obj\Debug\Traffic.exe
+C:\Users\derri\source\repos\Traffic\obj\Debug\Traffic.pdb
