@@ -1,0 +1,8 @@
+C:\Users\derri\source\repos\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\derri\source\repos\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\derri\source\repos\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\derri\source\repos\Vehicles\obj\Debug\Vehicles.csproj.AssemblyReference.cache
+C:\Users\derri\source\repos\Vehicles\obj\Debug\Vehicles.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\source\repos\Vehicles\obj\Debug\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\derri\source\repos\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\derri\source\repos\Vehicles\obj\Debug\Vehicles.pdb
