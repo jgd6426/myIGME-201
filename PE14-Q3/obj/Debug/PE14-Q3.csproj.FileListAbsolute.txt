@@ -1,0 +1,8 @@
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PE14-Q3\bin\Debug\PE14-Q3.exe.config
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PE14-Q3\bin\Debug\PE14-Q3.exe
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PE14-Q3\bin\Debug\PE14-Q3.pdb
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PE14-Q3\obj\Debug\PE14-Q3.csproj.AssemblyReference.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PE14-Q3\obj\Debug\PE14-Q3.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PE14-Q3\obj\Debug\PE14-Q3.csproj.CoreCompileInputs.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PE14-Q3\obj\Debug\PE14-Q3.exe
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PE14-Q3\obj\Debug\PE14-Q3.pdb
