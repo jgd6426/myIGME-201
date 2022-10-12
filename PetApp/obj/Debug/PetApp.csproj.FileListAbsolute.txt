@@ -1,0 +1,3 @@
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PetApp\obj\Debug\PetApp.csproj.AssemblyReference.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PetApp\obj\Debug\PetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\PetApp\obj\Debug\PetApp.csproj.CoreCompileInputs.cache
