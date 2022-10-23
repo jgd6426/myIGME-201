@@ -1,0 +1,8 @@
+C:\Users\derri\source\repos\jgd6426\myIGME-201\UnitTest2_Q9\bin\Debug\UnitTest2_Q9.exe.config
+C:\Users\derri\source\repos\jgd6426\myIGME-201\UnitTest2_Q9\bin\Debug\UnitTest2_Q9.exe
+C:\Users\derri\source\repos\jgd6426\myIGME-201\UnitTest2_Q9\bin\Debug\UnitTest2_Q9.pdb
+C:\Users\derri\source\repos\jgd6426\myIGME-201\UnitTest2_Q9\obj\Debug\UnitTest2_Q9.csproj.AssemblyReference.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\UnitTest2_Q9\obj\Debug\UnitTest2_Q9.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\UnitTest2_Q9\obj\Debug\UnitTest2_Q9.csproj.CoreCompileInputs.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\UnitTest2_Q9\obj\Debug\UnitTest2_Q9.exe
+C:\Users\derri\source\repos\jgd6426\myIGME-201\UnitTest2_Q9\obj\Debug\UnitTest2_Q9.pdb
