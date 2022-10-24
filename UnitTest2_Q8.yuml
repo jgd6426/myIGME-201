@@ -1,0 +1,21 @@
+// {type: class}
+// {generate: true}
+// {direction: topDown}
+
+[+A:Acapella|+voicePart:string|+WarmUp():a; +Critique():v]
+
+[+I:IExpectations|LearnMusic()]
+
+[+I:IActions|Sing(); Dance()]
+
+[+A:Acapella]<-.-[+Member||+LearnMusic; +Sing(); +Dance; +WarmUp():o]
+
+[+A:Acapella]<-.-[+Eboard||+LearnMusic; +Sing(); +Dance; +WarmUp():o; +Critique:o]
+
+[+I:IExpectations]^[+Member]
+
+[+I:IExpectations]^[+Eboard]
+
+[+I:IActions]^[+Member]
+
+[+I:IActions]^[+Eboard]
