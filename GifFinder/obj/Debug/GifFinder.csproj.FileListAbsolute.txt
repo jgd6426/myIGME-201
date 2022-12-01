@@ -1,0 +1,13 @@
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\bin\Debug\GifFinder.exe.config
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\bin\Debug\GifFinder.exe
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\bin\Debug\GifFinder.pdb
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\obj\Debug\GifFinder.csproj.AssemblyReference.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\obj\Debug\GifFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\obj\Debug\GifFinder.GifFinder.resources
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\obj\Debug\GifFinder.SearchForm.resources
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\obj\Debug\GifFinder.ImageForm.resources
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\obj\Debug\GifFinder.Properties.Resources.resources
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\obj\Debug\GifFinder.csproj.GenerateResource.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\obj\Debug\GifFinder.csproj.CoreCompileInputs.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\obj\Debug\GifFinder.exe
+C:\Users\derri\source\repos\jgd6426\myIGME-201\GifFinder\obj\Debug\GifFinder.pdb
