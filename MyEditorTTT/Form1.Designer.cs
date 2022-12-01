@@ -85,6 +85,7 @@
             this.menuStrip1.Size = new System.Drawing.Size(973, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.Visible = false;
             // 
             // fileToolStripMenuItem
             // 
@@ -269,7 +270,7 @@
             this.richTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox.Location = new System.Drawing.Point(0, 0);
             this.richTextBox.Name = "richTextBox";
-            this.richTextBox.Size = new System.Drawing.Size(973, 452);
+            this.richTextBox.Size = new System.Drawing.Size(973, 477);
             this.richTextBox.TabIndex = 0;
             this.richTextBox.Text = "";
             // 
@@ -324,7 +325,7 @@
             // 
             this.toolStripContainer1.ContentPanel.Controls.Add(this.countdowLabel);
             this.toolStripContainer1.ContentPanel.Controls.Add(this.richTextBox);
-            this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(973, 452);
+            this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(973, 477);
             this.toolStripContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.toolStripContainer1.Location = new System.Drawing.Point(0, 24);
             this.toolStripContainer1.Name = "toolStripContainer1";
@@ -361,7 +362,7 @@
             this.countdowLabel.ForeColor = System.Drawing.Color.Red;
             this.countdowLabel.Location = new System.Drawing.Point(0, 0);
             this.countdowLabel.Name = "countdowLabel";
-            this.countdowLabel.Size = new System.Drawing.Size(973, 452);
+            this.countdowLabel.Size = new System.Drawing.Size(973, 477);
             this.countdowLabel.TabIndex = 2;
             this.countdowLabel.Text = "3";
             this.countdowLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;

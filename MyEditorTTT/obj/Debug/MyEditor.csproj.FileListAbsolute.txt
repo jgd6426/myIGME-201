@@ -20,3 +20,4 @@ C:\Users\derri\source\repos\jgd6426\myIGME-201\MyEditorTTT\obj\Debug\MyEditor.cs
 C:\Users\derri\source\repos\jgd6426\myIGME-201\MyEditorTTT\obj\Debug\MyEditor.csproj.CoreCompileInputs.cache
 C:\Users\derri\source\repos\jgd6426\myIGME-201\MyEditorTTT\obj\Debug\MyEditor.exe
 C:\Users\derri\source\repos\jgd6426\myIGME-201\MyEditorTTT\obj\Debug\MyEditor.pdb
+C:\Users\derri\source\repos\jgd6426\myIGME-201\MyEditorTTT\obj\Debug\MyEditor.MyEditorParent.resources
