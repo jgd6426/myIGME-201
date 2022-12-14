@@ -1,0 +1,8 @@
+C:\Users\derri\source\repos\jgd6426\myIGME-201\FinalQ6\bin\Debug\FinalQ6.exe.config
+C:\Users\derri\source\repos\jgd6426\myIGME-201\FinalQ6\bin\Debug\FinalQ6.exe
+C:\Users\derri\source\repos\jgd6426\myIGME-201\FinalQ6\bin\Debug\FinalQ6.pdb
+C:\Users\derri\source\repos\jgd6426\myIGME-201\FinalQ6\obj\Debug\FinalQ6.csproj.AssemblyReference.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\FinalQ6\obj\Debug\FinalQ6.csproj.SuggestedBindingRedirects.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\FinalQ6\obj\Debug\FinalQ6.csproj.CoreCompileInputs.cache
+C:\Users\derri\source\repos\jgd6426\myIGME-201\FinalQ6\obj\Debug\FinalQ6.exe
+C:\Users\derri\source\repos\jgd6426\myIGME-201\FinalQ6\obj\Debug\FinalQ6.pdb
